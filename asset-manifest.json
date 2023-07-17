@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Credit-card-generator/static/css/main.8bc57224.css",
+    "main.js": "/Credit-card-generator/static/js/main.e290a334.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Credit-card-generator/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg-card-back.png": "/Credit-card-generator/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/Credit-card-generator/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "index.html": "/Credit-card-generator/index.html",
+    "static/media/card-logo.svg": "/Credit-card-generator/static/media/card-logo.8ca9036515954c3f8191559dce9c7bdf.svg",
+    "main.8bc57224.css.map": "/Credit-card-generator/static/css/main.8bc57224.css.map",
+    "main.e290a334.js.map": "/Credit-card-generator/static/js/main.e290a334.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Credit-card-generator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bc57224.css",
+    "static/js/main.e290a334.js"
+  ]
+}
